@@ -1,0 +1,2 @@
+const e =document.getElementsByName("malathi");
+document.getElementById("demo").innerHTML=e[1].tagName;
